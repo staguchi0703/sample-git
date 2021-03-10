@@ -1,1 +1,4 @@
-git fetch /C:/Users/spuns/OneDrive/デスクトップ/bare/b1 'refs/heads/*:refs/heads/*'
+git fetch origin 'refs/heads/*:refs/heads/*'
+
+
+https://qiita.com/nipoko/items/6e81a6021358ff8c03e9
