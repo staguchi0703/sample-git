@@ -1,0 +1,1 @@
+git fetch /C:/Users/spuns/OneDrive/デスクトップ/bare/b1 'refs/heads/*:refs/heads/*'
